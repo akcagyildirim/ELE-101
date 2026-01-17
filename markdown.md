@@ -7,4 +7,4 @@ boşluk için \ kullan
 ![example image](161718.png)
 
 
-![example image](Ekran görüntüsü 2025-10-12 223331.png)
+![example image](Ekrangörüntüsü2025-10-12223331.png)
