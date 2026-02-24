@@ -1,6 +1,6 @@
 
 ## SÜRDÜRÜLEBİLİR KALKINMA AMAÇLARI
-![alt gorsel](SKL-Gorsel.png)
+![alt gorsel](gorsel.png)
 # YOKSULLUĞA SON
 Yoksulluğun tüm biçimlerini her yerde sona erdirmek
 #
