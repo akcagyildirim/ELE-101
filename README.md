@@ -1,3 +1,3 @@
 # ELE-101
 DERS
-![alt gorsel](SKL-Gorsel.png)
+![alt gorsel](Ekran görüntüsü 2025-10-12 223331.png)
